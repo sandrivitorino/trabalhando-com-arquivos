@@ -6,7 +6,6 @@ import java.io.IOException;
 
 public class Program {
     void main() {
-
         String path = "C:\\temp\\in.txt.txt";
         BufferedReader br = null;
         FileReader fr = null;
