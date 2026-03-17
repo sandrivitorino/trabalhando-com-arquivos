@@ -7,8 +7,12 @@
     <file url="file://$PROJECT_DIR$/fileReader-bufferedReader/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fileWriter-bufferedWriter/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fileWriter-bufferedWriter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infos-caminhoDoArquivo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infos-caminhoDoArquivo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lendo-arquivos/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lendo-arquivos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manipulandoPastasFile/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manipulandoPastasFile/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
